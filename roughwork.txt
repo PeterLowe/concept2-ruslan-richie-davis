@@ -13,10 +13,16 @@ World Background [RB]
 Now in the future. The Assastronauts long battle still continues with the Templars. However, New technology, new worlds, new locations and new Factions all exist within this universe.
 The classic Assasins creed style and flow still remain in these changed times which many of our fans enjoy and love.
 ...
-Pillars
-3-4 fundementals of this game
-...
-30 second gameplay description
+
+Pillars [DG]
+Uncompromising survival & world exploration with the classic assasination from previous franchises  
+dark and whimsical visuals in a 3D open world with a space background
+randomly generated space terrain, 30% travelling through space and terrain 30% crafting new weapons 30% assasinating enemies 10% fun
+
+30 second gameplay description [DG]
+Gameplay includes traveling trough different worlds in space. it will be a singleplayer game where you
+Enter a strange and unexplored space full of strange creatures,dangers and surprises. Find and craft new deadly weapons to kill enemies with  
+
 describe what its like to play the essence of the game loop
 ...
 Features points
