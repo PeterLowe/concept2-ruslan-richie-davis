@@ -10,10 +10,16 @@ Describe your game in 30 seconds or less
 World Background
 main differences in your game world
 ...
-Pillars
-3-4 fundementals of this game
-...
-30 second gameplay description
+
+Pillars [DG]
+Uncompromising survival & world exploration with the classic assasination from previous franchises  
+dark and whimsical visuals in a 3D open world with a space background
+randomly generated space terrain, 30% travelling through space and terrain 30% crafting new weapons 30% assasinating enemies 10% fun
+
+30 second gameplay description [DG]
+Gameplay includes traveling trough different worlds in space. it will be a singleplayer game where you
+Enter a strange and unexplored space full of strange creatures,dangers and surprises. Find and craft new deadly weapons to kill enemies with  
+
 describe what its like to play the essence of the game loop
 ...
 Features points
