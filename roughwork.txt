@@ -3,9 +3,11 @@
 Title
 Team Ruslan, Richie, Davis [RG] /Assastronauts Creed[RB]
 
-Elevator pitch 
-Describe your game in 30 seconds or less
-...
+Elevator pitch [RB]
+Assastronauts Creed is a game like none before. The historic setting of assassins during Templar timeshas now moved to the future.
+This Open-world, Story-driven RPG, with new combat mechanics that in comparison to previous competitors like Hitman, 
+will drive new interest and introduce new players regardless of prefered genre.
+
 World Background
 main differences in your game world
 ...
