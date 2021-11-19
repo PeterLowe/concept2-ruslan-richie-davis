@@ -1,7 +1,8 @@
 [RB]Remeber to put your initials in square brackets at rthe start of each section
 
 Title
-Team Ruslan, Richie, Davis [RG] /Assastronauts Creed[RB]
+
+Team Ruslan, Richie, Davis [RG][DG] /Assastronauts Creed[RB]
 
 Elevator pitch 
 Describe your game in 30 seconds or less
